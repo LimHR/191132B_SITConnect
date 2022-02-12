@@ -21,9 +21,9 @@ namespace prac
                     }
                     else
                     {
-                        lblmessage.Text = "Congratulations ! you are logged in";
-                        lblmessage.ForeColor = System.Drawing.Color.Green;
-                        btn_logout.Visible = true;
+                        lblmessagehr.Text = "Congratulations ! you are logged in";
+                        lblmessagehr.ForeColor = System.Drawing.Color.Green;
+                        btn_logouthr.Visible = true;
                     }
                 }
             }
@@ -32,7 +32,7 @@ namespace prac
                 Response.Redirect("Login.aspx", false);
             }
         }
-        protected void LogoutMe(object sender, EventArgs e)
+        protected void LogoutMehr(object sender, EventArgs e)
         {
             Session.Clear();
             Session.Abandon();

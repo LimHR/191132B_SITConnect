@@ -24,67 +24,67 @@ namespace prac
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// tb_email control.
+        /// tb_emailhr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_email;
+        protected global::System.Web.UI.WebControls.TextBox tb_emailhr;
 
         /// <summary>
-        /// lbl_emailchecker control.
+        /// lbl_emailcheckerhr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_emailchecker;
+        protected global::System.Web.UI.WebControls.Label lbl_emailcheckerhr;
 
         /// <summary>
-        /// tb_firstname control.
+        /// tb_firstnamehr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_firstname;
+        protected global::System.Web.UI.WebControls.TextBox tb_firstnamehr;
 
         /// <summary>
-        /// tb_lastName control.
+        /// tb_lastNamehr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_lastName;
+        protected global::System.Web.UI.WebControls.TextBox tb_lastNamehr;
 
         /// <summary>
-        /// tb_pwd control.
+        /// tb_pwdhr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_pwd;
+        protected global::System.Web.UI.WebControls.TextBox tb_pwdhr;
 
         /// <summary>
-        /// lbl_pwdchecker control.
+        /// lbl_pwdcheckerhr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbl_pwdchecker;
+        protected global::System.Web.UI.WebControls.Label lbl_pwdcheckerhr;
 
         /// <summary>
-        /// tb_creditcard control.
+        /// tb_creditcardhr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_creditcard;
+        protected global::System.Web.UI.WebControls.TextBox tb_creditcardhr;
 
         /// <summary>
         /// tb_DOB control.
@@ -96,21 +96,21 @@ namespace prac
         protected global::System.Web.UI.WebControls.TextBox tb_DOB;
 
         /// <summary>
-        /// FileUpload1 control.
+        /// FileUpload1hr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.FileUpload FileUpload1;
+        protected global::System.Web.UI.WebControls.FileUpload FileUpload1hr;
 
         /// <summary>
-        /// btn_submit control.
+        /// btn_submihr control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_submit;
+        protected global::System.Web.UI.WebControls.Button btn_submihr;
     }
 }
